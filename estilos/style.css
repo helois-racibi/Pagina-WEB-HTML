@@ -124,6 +124,10 @@ body {
         padding: 10%;
     }
 
+    .foto__perfil{
+        width: 70%;
+    }
+
     .cabecalho__menu{
         justify-content: center;
     }
